@@ -11,5 +11,5 @@ def key_for_min_value(name_hash)
       return :adam
     end
     # return nil
-  end
+  
 end
