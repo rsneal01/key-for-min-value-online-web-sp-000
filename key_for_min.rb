@@ -14,8 +14,3 @@ def key_for_min_value(name_hash)
   
 end
 
-def key_for_min_value(name_hash)
-  value_array = name_hash.collect do |name, value|
-end
-
-end
