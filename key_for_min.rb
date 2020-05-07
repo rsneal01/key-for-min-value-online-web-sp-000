@@ -10,6 +10,6 @@ def key_for_min_value(name_hash)
     elsif name_hash[:adam] < name_hash[:blake] && name_hash[:adam] < name_hash[:ashley]
       return :adam
     end
-    return nil
+    # return nil
   end
 end
